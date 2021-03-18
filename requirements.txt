@@ -3,6 +3,8 @@ matplotlib
 numpy
 pandas
 plyfile
+pylas
+lasrs
 pyyaml==5.4.1
 scikit-learn
 tqdm
